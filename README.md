@@ -65,8 +65,6 @@
 <img width="817" height="353" alt="image" src="https://github.com/user-attachments/assets/aa175c0b-7559-4877-b239-e8947934800e" />
 <img width="783" height="373" alt="image" src="https://github.com/user-attachments/assets/65f659c7-2505-444a-97e2-9cfd6126afbc" />
 <img width="817" height="382" alt="image" src="https://github.com/user-attachments/assets/5db6e291-878c-4566-aa98-a38b0ade4fe0" />
-
-
 # RESULTS:
 Thus the audio signal is analysed using dft.
 
